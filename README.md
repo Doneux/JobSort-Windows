@@ -4,7 +4,7 @@
 
 A native Windows app for tracking job applications: where you've applied, what stage each one is at, and what's coming up.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/screenshot.PNG)
 
 ## Features
 
