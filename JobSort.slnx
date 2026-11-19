@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JobSort.App/JobSort.App.csproj" />
+    <Project Path="src/JobSort.Core/JobSort.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JobSort.Tests/JobSort.Tests.csproj" />
+  </Folder>
+</Solution>
